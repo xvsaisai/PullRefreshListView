@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PullRefreshListView</string>
+    <item name="pull_load_head" type="id"></item>
+    <item name="pull_load_foot" type="id"></item>
+</resources>
