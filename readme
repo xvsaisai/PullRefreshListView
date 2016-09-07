@@ -1,0 +1,7 @@
+
+pullrefreshListView：
+
+    支持上下拉刷新
+
+    通过调用setPullDownUsable(boolean b)和setLoadDownUsable(boolean b)方法来分别设置下拉刷新和上拉加载是否可用。
+
